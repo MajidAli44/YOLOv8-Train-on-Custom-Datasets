@@ -29,4 +29,3 @@ Once you’ve completed the preprocessing steps, such as data collection, data l
 
 ## yolo task=detect mode=train model=yolov8n.pt data=custom.yaml epochs=3 imgsz=640   
 
-<img src="C:\Users\AsianSol\OneDrive\Pictures\Screenshots\7.png" alt="OutPut" title="Output">
