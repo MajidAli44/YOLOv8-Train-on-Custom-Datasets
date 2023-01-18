@@ -28,3 +28,5 @@ names: ['person', 'head', 'hat']
 Once you’ve completed the preprocessing steps, such as data collection, data labeling, data splitting, and creating a custom configuration file, you can start training YOLOv8 on custom data by using mentioned command below in the terminal/(command prompt).    
 
 ## yolo task=detect mode=train model=yolov8n.pt data=custom.yaml epochs=3 imgsz=640   
+
+<img src="C:\Users\AsianSol\OneDrive\Pictures\Screenshots\7.png" alt="OutPut" title="Output">
