@@ -16,11 +16,12 @@ test: (Complete path to dataset test folder)
 valid: (Complete path to dataset valid folder)   
 
 ### Classes   
-nc: 5# replace according to your number of classes    
+### nc: 3  
+replace according to your number of classes    
 
 ### classes names   
 replace all class names list with your classes names     
-names: ['person', 'bicycle', 'car', 'motorcycle', 'airplane']      
+names: ['person', 'head', 'hat']      
 
 ## Start Training     
 
